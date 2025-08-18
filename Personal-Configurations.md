@@ -7,5 +7,7 @@
 - fzf - fuzzy finder
 - polybar - tool to create status bar
 - Greenclip - clipboard manager
-- 
 
+
+## Installed Packages
+- xf86-input-synaptics - to configure input devices like mouse (I installed to configure my mouse settings)
