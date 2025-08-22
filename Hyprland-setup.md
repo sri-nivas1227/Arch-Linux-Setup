@@ -1,0 +1,5 @@
+- Desktop environment - Hyprland
+- **Bluetooth** - `bluez, bluez-utils`
+- **Network** - `nmcli, nmtui`
+- **Status Bar** - `waybar`
+- **Terminal** - `Kitty`
