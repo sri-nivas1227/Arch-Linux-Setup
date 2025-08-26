@@ -100,7 +100,7 @@ button {
     padding: 1px 10px;
     color: #231f20;
     border-radius: 100px;
-    font-size: x-small;
+    font-size: small;
     margin: 6px;
 }
 
@@ -120,17 +120,18 @@ button {
 }
 
 #clock {
-    background-color: #64727D;
+    /* background-color: #64727D; */
+    font-weight: bold;
 }
 
 #battery {
-    background-color: #ffffff;
+    /* background-color: #ffffff; */
     color: #000000;
 }
 
 #battery.charging, #battery.plugged {
     color: #ffffff;
-    background-color: #26A65B;
+    /* background-color: #26A65B; */
 }
 
 @keyframes blink {
@@ -175,12 +176,12 @@ label:focus {
 }
 
 #cpu {
-    background-color: #2ecc71;
+    /* background-color: #2ecc71; */
     color: #000000;
 }
 
 #memory {
-    background-color: #9b59b6;
+    /* background-color: #9b59b6; */
 }
 
 #disk {
@@ -188,11 +189,11 @@ label:focus {
 }
 
 #backlight {
-    background-color: #90b1b1;
+    /* background-color: #90b1b1; */
 }
 
 #network {
-    background-color: #2980b9;
+    /* background-color: #2980b9; */
 }
 
 #network.disconnected {
