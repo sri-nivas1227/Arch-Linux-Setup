@@ -9,10 +9,13 @@ Step by step process to setup arch linux on an existing windows laptop (HP Pavil
 - install required packages for everything we need
 
 ## To-Do
-- setup volume controls
-- brightness controls
-- keyboard backlight
-- print screen and snip screen
+[x] setup volume controls
+[x] brigness controls
+[x] keyboard backlight
+[] print screen and snip screen
+[] rofi opens apps in a new workspace
+[] open nemo when show in folder is clicked
+[] configure clipboard
 
 ## Installing Arch on my HP Pavilion machine, replacing my Windows OS
 - Backed up all data from my windows machine
