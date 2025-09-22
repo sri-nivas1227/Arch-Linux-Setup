@@ -16,6 +16,8 @@ Step by step process to setup arch linux on an existing windows laptop (HP Pavil
 - [ ] rofi opens apps in a new workspace
 - [ ] open nemo when show in folder is clicked
 - [ ] configure clipboard
+- [ ] LockScreen and sleep after some time
+- [ ] Stop charging when reached 80% (Safe Charging)
 
 ## Installing Arch on my HP Pavilion machine, replacing my Windows OS
 - Backed up all data from my windows machine
