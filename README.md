@@ -18,7 +18,8 @@ Step by step process to setup arch linux on an existing windows laptop (HP Pavil
 - [ ] configure clipboard
 - [ ] LockScreen and sleep after some time
 - [ ] Stop charging when reached 80% (Safe Charging)
-
+- [ ] A way to setup and adjust multiple screen configurations
+- [ ] 
 ## Installing Arch on my HP Pavilion machine, replacing my Windows OS
 - Backed up all data from my windows machine
 - Copied Configs of arch from my removable SSD which is running Arch for now
